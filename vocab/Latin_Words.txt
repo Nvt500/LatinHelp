@@ -1,0 +1,361 @@
+Nouns
+Nominative
+Genitive
+Gender
+Definition
+annus
+anni
+m
+year
+bellum
+belli
+n
+war
+comes
+comitis
+m/f
+companion
+deus
+dei
+m
+god
+discipulus
+discipuli
+m
+pupil
+genus
+generis
+n
+race
+grammaticus
+grammatici
+m
+teacher
+hiems
+hiemis
+f
+winter
+ientaculum
+ientaculi
+n
+breakfast
+imperator
+imperatoris
+m
+commander
+lingua
+linguae
+f
+tongue
+litus
+litoris
+n
+shore
+ludus
+ludi
+m
+school
+mare
+maris
+n
+sea
+mensis
+mensis
+m
+month
+navis
+navis
+f
+ship
+oppidum
+oppidi
+n
+town
+paedagogus
+paedagogi
+m
+tutor
+pax
+pacis
+f
+peace
+paulum
+pauli
+n
+a little
+pistrinum
+pistrini
+n
+bakery
+poena
+poenae
+f
+punishment
+regina
+reginae
+f
+queen
+ruina
+ruinae
+f
+ruin
+scapha
+scaphae
+f
+small boat
+studium
+studii
+n
+enthusiasm
+tempestas
+tempestatis
+f
+storm
+terra
+terrae
+f
+earth
+urbs
+urbis
+f
+city
+verbum
+verbi
+n
+verb
+
+
+Verbs
+1st Principal Part
+2nd Principal Part
+3rd Principal Part
+4th Principal Part
+Definition
+conor
+conari
+conatus sum
+none
+to try
+deleo
+delere
+delevi
+deletus
+to destroy
+desilio
+desilire
+desilui
+none
+to jump down
+disco
+discere
+didici
+none
+to learn
+egredior
+egredi
+egressus sum
+none
+to leave
+eo
+ire
+ii
+itus
+to go
+expello
+expellere
+expuli
+expulsus
+to expel
+fero
+ferre
+tuli
+latus
+to bring
+laudo
+laudare
+laudavi
+laudatus
+to praise
+loquor
+loqui
+locutus sum
+none
+to talk
+morior
+mori
+mortuus sum
+none
+to die
+nascor
+nasci
+natus sum
+none
+to be born
+nato
+natare
+natavi
+natatus
+to swim
+pareo
+parere
+parui
+pariturus
+to obey
+patior
+pati
+passus sum
+none
+to suffer
+proficiscor
+proficisci
+profectus sum
+none
+to set out
+rapio
+rapere
+rapui
+raptus
+to snatch
+regredior
+regredi
+regressus sum
+none
+to return
+sequor
+sequi
+secutus sum
+none
+to follow
+vereor
+vereri
+veritus sum
+none
+to fear
+
+
+Adjectives
+Masculine
+Feminine
+Neuter
+Definition
+aeger
+aegra
+aegrum
+sick
+aliqui
+aliquae
+aliqua
+some
+altus
+alta
+altum
+high
+carus
+cara
+carum
+beloved
+celer
+celeris
+celere
+fast
+crudelis
+crudelis
+crudele
+cruel
+eruditus
+erudita
+eruditum
+learned
+fortis
+fortis
+forte
+brave
+gravis
+gravis
+grave
+heavy
+ignavus
+ignava
+ignavum
+lazy
+iratus
+irata
+iratum
+angry
+magnus
+magna
+magnum
+big
+parvus
+parva
+parvum
+small
+saevus
+saeva
+saevum
+savage
+scelestus
+scelesta
+scelestum
+wicked
+tertius
+tertia
+tertium
+third
+tres
+tres
+tria
+three
+utilis
+utilis
+utile
+useful
+
+
+Misc
+Latin Word
+Definition
+ante
+before
+aut/vel
+or
+autem
+however
+circum
+around
+cotide
+daily
+cum 
+since
+etiam
+also
+inde
+then
+magis 
+more
+nusquam
+nowhere
+primo 
+first
+qua de causa
+for this reason
+quam comp
+than
+quam super
+as _ as possible
+quam inter
+how
+quidem
+indeed
+quot
+how many 
+quotus
+what
+si 
+if
+sic 
+thus
+una
+together
+vero
+truly

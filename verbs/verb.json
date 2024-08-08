@@ -1,0 +1,602 @@
+{
+    "1": {
+        "active": {
+            "present": {
+                "singular": {
+                    "first": "1",
+                    "second": "2-re/s",
+                    "third": "2-re/t"
+                },
+                "plural": {
+                    "first": "2-re/mus",
+                    "second": "2-re/tis",
+                    "third": "2-re/nt"
+                }
+            },
+            "imperfect": {
+                "singular": {
+                    "first": "2-re/bam",
+                    "second": "2-re/bas",
+                    "third": "2-re/bat"
+                },
+                "plural": {
+                    "first": "2-re/bamus",
+                    "second": "2-re/batis",
+                    "third": "2-re/bant"
+                }
+            },
+            "future": {
+                "singular": {
+                    "first": "2-re/bo",
+                    "second": "2-re/bis",
+                    "third": "2-re/bit"
+                },
+                "plural": {
+                    "first": "2-re/bimus",
+                    "second": "2-re/bitis",
+                    "third": "2-re/bunt"
+                }
+            },
+            "perfect": {
+                "singular": {
+                    "first": "3",
+                    "second": "3sti",
+                    "third": "3t"
+                },
+                "plural": {
+                    "first": "3mus",
+                    "second": "3stis",
+                    "third": "3-i/erunt"
+                }
+            },
+            "plu perfect": {
+                "singular": {
+                    "first": "3-i/eram",
+                    "second": "3-i/eras",
+                    "third": "3-i/erat"
+                },
+                "plural": {
+                    "first": "3-i/eramus",
+                    "second": "3-i/eratis",
+                    "third": "3-i/erant"
+                }
+            },
+            "future perfect": {
+                "singular": {
+                    "first": "3-i/ero",
+                    "second": "3-i/eris",
+                    "third": "3-i/erit"
+                },
+                "plural": {
+                    "first": "3-i/erimus",
+                    "second": "3-i/eritis",
+                    "third": "3-i/erint"
+                }
+            }
+        },
+        "passive": {
+            "present": {
+                "singular": {
+                    "first": "1r",
+                    "second": "2-re/ris",
+                    "third": "2-re/tur"
+                },
+                "plural": {
+                    "first": "2-re/mur",
+                    "second": "2-re/mini",
+                    "third": "2-re/ntur"
+                }
+            },
+            "imperfect": {
+                "singular": {
+                    "first": "2-re/bar",
+                    "second": "2-re/baris",
+                    "third": "2-re/batur"
+                },
+                "plural": {
+                    "first": "2-re/bamur",
+                    "second": "2-re/bamini",
+                    "third": "2-re/bantur"
+                }
+            },
+            "future": {
+                "singular": {
+                    "first": "2-re/bor",
+                    "second": "2-re/biris",
+                    "third": "2-re/bitur"
+                },
+                "plural": {
+                    "first": "2-re/bimur",
+                    "second": "2-re/bimini",
+                    "third": "2-re/buntur"
+                }
+            },
+            "perfect": {
+                "singular": {
+                    "first": "4 sum",
+                    "second": "4 es",
+                    "third": "4 est"
+                },
+                "plural": {
+                    "first": "4-us/i sumus",
+                    "second": "4-us/i estis",
+                    "third": "4-us/i sunt"
+                }
+            },
+            "plu perfect": {
+                "singular": {
+                    "first": "4 eram",
+                    "second": "4 eras",
+                    "third": "4 erat"
+                },
+                "plural": {
+                    "first": "4-us/i eramus",
+                    "second": "4-us/i eratis",
+                    "third": "4-us/i erant"
+                }
+            },
+            "future perfect": {
+                "singular": {
+                    "first": "4 ero",
+                    "second": "4 eris",
+                    "third": "4 erit"
+                },
+                "plural": {
+                    "first": "4-us/i erimus",
+                    "second": "4-us/i eritis",
+                    "third": "4-us/i erunt"
+                }
+            }
+        }
+    },
+    "2": {
+        "active": {
+            "present": {
+                "singular": {
+                    "first": "1",
+                    "second": "2-re/s",
+                    "third": "2-re/t"
+                },
+                "plural": {
+                    "first": "2-re/mus",
+                    "second": "2-re/tis",
+                    "third": "2-re/nt"
+                }
+            },
+            "imperfect": {
+                "singular": {
+                    "first": "2-re/bam",
+                    "second": "2-re/bas",
+                    "third": "2-re/bat"
+                },
+                "plural": {
+                    "first": "2-re/bamus",
+                    "second": "2-re/batis",
+                    "third": "2-re/bant"
+                }
+            },
+            "future": {
+                "singular": {
+                    "first": "2-re/bo",
+                    "second": "2-re/bis",
+                    "third": "2-re/bit"
+                },
+                "plural": {
+                    "first": "2-re/bimus",
+                    "second": "2-re/bitis",
+                    "third": "2-re/bunt"
+                }
+            },
+            "perfect": {
+                "singular": {
+                    "first": "3",
+                    "second": "3sti",
+                    "third": "3t"
+                },
+                "plural": {
+                    "first": "3mus",
+                    "second": "3stis",
+                    "third": "3-i/erunt"
+                }
+            },
+            "plu perfect": {
+                "singular": {
+                    "first": "3-i/eram",
+                    "second": "3-i/eras",
+                    "third": "3-i/erat"
+                },
+                "plural": {
+                    "first": "3-i/eramus",
+                    "second": "3-i/eratis",
+                    "third": "3-i/erant"
+                }
+            },
+            "future perfect": {
+                "singular": {
+                    "first": "3-i/ero",
+                    "second": "3-i/eris",
+                    "third": "3-i/erit"
+                },
+                "plural": {
+                    "first": "3-i/erimus",
+                    "second": "3-i/eritis",
+                    "third": "3-i/erint"
+                }
+            }
+        },
+        "passive": {
+            "present": {
+                "singular": {
+                    "first": "1r",
+                    "second": "2-re/ris",
+                    "third": "2-re/tur"
+                },
+                "plural": {
+                    "first": "2-re/mur",
+                    "second": "2-re/mini",
+                    "third": "2-re/ntur"
+                }
+            },
+            "imperfect": {
+                "singular": {
+                    "first": "2-re/bar",
+                    "second": "2-re/baris",
+                    "third": "2-re/batur"
+                },
+                "plural": {
+                    "first": "2-re/bamur",
+                    "second": "2-re/bamini",
+                    "third": "2-re/bantur"
+                }
+            },
+            "future": {
+                "singular": {
+                    "first": "2-re/bor",
+                    "second": "2-re/biris",
+                    "third": "2-re/bitur"
+                },
+                "plural": {
+                    "first": "2-re/bimur",
+                    "second": "2-re/bimini",
+                    "third": "2-re/buntur"
+                }
+            },
+            "perfect": {
+                "singular": {
+                    "first": "4 sum",
+                    "second": "4 es",
+                    "third": "4 est"
+                },
+                "plural": {
+                    "first": "4-us/i sumus",
+                    "second": "4-us/i estis",
+                    "third": "4-us/i sunt"
+                }
+            },
+            "plu perfect": {
+                "singular": {
+                    "first": "4 eram",
+                    "second": "4 eras",
+                    "third": "4 erat"
+                },
+                "plural": {
+                    "first": "4-us/i eramus",
+                    "second": "4-us/i eratis",
+                    "third": "4-us/i erant"
+                }
+            },
+            "future perfect": {
+                "singular": {
+                    "first": "4 ero",
+                    "second": "4 eris",
+                    "third": "4 erit"
+                },
+                "plural": {
+                    "first": "4-us/i erimus",
+                    "second": "4-us/i eritis",
+                    "third": "4-us/i erunt"
+                }
+            }
+        }
+    },
+    "3": {
+        "active": {
+            "present": {
+                "singular": {
+                    "first": "1",
+                    "second": "2-ere/is",
+                    "third": "2-ere/it"
+                },
+                "plural": {
+                    "first": "2-ere/imus",
+                    "second": "2-ere/itis",
+                    "third": "2-ere/unt"
+                }
+            },
+            "imperfect": {
+                "singular": {
+                    "first": "2-re/bam",
+                    "second": "2-re/bas",
+                    "third": "2-re/bat"
+                },
+                "plural": {
+                    "first": "2-re/bamus",
+                    "second": "2-re/batis",
+                    "third": "2-re/bant"
+                }
+            },
+            "future": {
+                "singular": {
+                    "first": "2-ere/am",
+                    "second": "2-ere/es",
+                    "third": "2-ere/et"
+                },
+                "plural": {
+                    "first": "2-ere/emus",
+                    "second": "2-ere/etis",
+                    "third": "2-ere/ent"
+                }
+            },
+            "perfect": {
+                "singular": {
+                    "first": "3",
+                    "second": "3sti",
+                    "third": "3t"
+                },
+                "plural": {
+                    "first": "3mus",
+                    "second": "3stis",
+                    "third": "3-i/erunt"
+                }
+            },
+            "plu perfect": {
+                "singular": {
+                    "first": "3-i/eram",
+                    "second": "3-i/eras",
+                    "third": "3-i/erat"
+                },
+                "plural": {
+                    "first": "3-i/eramus",
+                    "second": "3-i/eratis",
+                    "third": "3-i/erant"
+                }
+            },
+            "future perfect": {
+                "singular": {
+                    "first": "3-i/ero",
+                    "second": "3-i/eris",
+                    "third": "3-i/erit"
+                },
+                "plural": {
+                    "first": "3-i/erimus",
+                    "second": "3-i/eritis",
+                    "third": "3-i/erint"
+                }
+            }
+        },
+        "passive": {
+            "present": {
+                "singular": {
+                    "first": "1r",
+                    "second": "2-ere/iris",
+                    "third": "2-ere/itur"
+                },
+                "plural": {
+                    "first": "2-ere/imur",
+                    "second": "2-ere/imini",
+                    "third": "2-ere/intur"
+                }
+            },
+            "imperfect": {
+                "singular": {
+                    "first": "2-re/bar",
+                    "second": "2-re/baris",
+                    "third": "2-re/batur"
+                },
+                "plural": {
+                    "first": "2-re/bamur",
+                    "second": "2-re/bamini",
+                    "third": "2-re/bantur"
+                }
+            },
+            "future": {
+                "singular": {
+                    "first": "2-ere/ar",
+                    "second": "2-ere/eris",
+                    "third": "2-ere/etur"
+                },
+                "plural": {
+                    "first": "2-ere/emur",
+                    "second": "2-ere/emini",
+                    "third": "2-ere/entur"
+                }
+            },
+            "perfect": {
+                "singular": {
+                    "first": "4 sum",
+                    "second": "4 es",
+                    "third": "4 est"
+                },
+                "plural": {
+                    "first": "4-us/i sumus",
+                    "second": "4-us/i estis",
+                    "third": "4-us/i sunt"
+                }
+            },
+            "plu perfect": {
+                "singular": {
+                    "first": "4 eram",
+                    "second": "4 eras",
+                    "third": "4 erat"
+                },
+                "plural": {
+                    "first": "4-us/i eramus",
+                    "second": "4-us/i eratis",
+                    "third": "4-us/i erant"
+                }
+            },
+            "future perfect": {
+                "singular": {
+                    "first": "4 ero",
+                    "second": "4 eris",
+                    "third": "4 erit"
+                },
+                "plural": {
+                    "first": "4-us/i erimus",
+                    "second": "4-us/i eritis",
+                    "third": "4-us/i erunt"
+                }
+            }
+        }
+    },
+    "4": {
+        "active": {
+            "present": {
+                "singular": {
+                    "first": "1",
+                    "second": "2-re/s",
+                    "third": "2-re/t"
+                },
+                "plural": {
+                    "first": "2-re/mus",
+                    "second": "2-re/tis",
+                    "third": "2-re/unt"
+                }
+            },
+            "imperfect": {
+                "singular": {
+                    "first": "2-re/ebam",
+                    "second": "2-re/ebas",
+                    "third": "2-re/ebat"
+                },
+                "plural": {
+                    "first": "2-re/ebamus",
+                    "second": "2-re/ebatis",
+                    "third": "2-re/ebant"
+                }
+            },
+            "future": {
+                "singular": {
+                    "first": "2-re/am",
+                    "second": "2-re/es",
+                    "third": "2-re/et"
+                },
+                "plural": {
+                    "first": "2-re/emus",
+                    "second": "2-re/etis",
+                    "third": "2-re/ent"
+                }
+            },
+            "perfect": {
+                "singular": {
+                    "first": "3",
+                    "second": "3sti",
+                    "third": "3t"
+                },
+                "plural": {
+                    "first": "3mus",
+                    "second": "3stis",
+                    "third": "3-i/erunt"
+                }
+            },
+            "plu perfect": {
+                "singular": {
+                    "first": "3-i/eram",
+                    "second": "3-i/eras",
+                    "third": "3-i/erat"
+                },
+                "plural": {
+                    "first": "3-i/eramus",
+                    "second": "3-i/eratis",
+                    "third": "3-i/erant"
+                }
+            },
+            "future perfect": {
+                "singular": {
+                    "first": "3-i/ero",
+                    "second": "3-i/eris",
+                    "third": "3-i/erit"
+                },
+                "plural": {
+                    "first": "3-i/erimus",
+                    "second": "3-i/eritis",
+                    "third": "3-i/erint"
+                }
+            }
+        },
+        "passive": {
+            "present": {
+                "singular": {
+                    "first": "1r",
+                    "second": "2-re/ris",
+                    "third": "2-re/tur"
+                },
+                "plural": {
+                    "first": "2-re/mur",
+                    "second": "2-re/mini",
+                    "third": "2-re/untur"
+                }
+            },
+            "imperfect": {
+                "singular": {
+                    "first": "2-re/ebar",
+                    "second": "2-re/ebaris",
+                    "third": "2-re/ebatur"
+                },
+                "plural": {
+                    "first": "2-re/ebamur",
+                    "second": "2-re/ebamini",
+                    "third": "2-re/ebantur"
+                }
+            },
+            "future": {
+                "singular": {
+                    "first": "2-re/ar",
+                    "second": "2-re/eris",
+                    "third": "2-re/etur"
+                },
+                "plural": {
+                    "first": "2-re/emur",
+                    "second": "2-re/emini",
+                    "third": "2-re/entur"
+                }
+            },
+            "perfect": {
+                "singular": {
+                    "first": "4 sum",
+                    "second": "4 es",
+                    "third": "4 est"
+                },
+                "plural": {
+                    "first": "4-us/i sumus",
+                    "second": "4-us/i estis",
+                    "third": "4-us/i sunt"
+                }
+            },
+            "plu perfect": {
+                "singular": {
+                    "first": "4 eram",
+                    "second": "4 eras",
+                    "third": "4 erat"
+                },
+                "plural": {
+                    "first": "4-us/i eramus",
+                    "second": "4-us/i eratis",
+                    "third": "4-us/i erant"
+                }
+            },
+            "future perfect": {
+                "singular": {
+                    "first": "4 ero",
+                    "second": "4 eris",
+                    "third": "4 erit"
+                },
+                "plural": {
+                    "first": "4-us/i erimus",
+                    "second": "4-us/i eritis",
+                    "third": "4-us/i erunt"
+                }
+            }
+        }
+    }
+}

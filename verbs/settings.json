@@ -1,0 +1,37 @@
+{
+    "active": {
+        "answer_with": "any_principal_parts",
+        "path": "verbs.csv",
+        "file_type": "csv"
+    },
+    "choice": {
+        "answer_with": {
+            "choices": [
+                "all_principal_parts",
+                "first_principal_part",
+                "any_principal_parts",
+                "composition",
+                "conjugated_verb",
+                "conjugation"
+            ],
+            "prompt": "Enter what to answer with. \n  Choices:",
+            "input": "int"
+        },
+        "path": {
+            "choices": [
+                "name.extension",
+                "folder/name.extension"
+            ],
+            "prompt": "Enter a path to the file of verbs.\n  Types:",
+            "input": "string"
+        },
+        "file_type": {
+            "choices": [
+                "csv",
+                "txt"
+            ],
+            "prompt": "Enter a file_type. \n  Types:",
+            "input": "int"
+        }
+    }
+}
